@@ -47,4 +47,4 @@ Social Media Report in Power BI. This project allows you to present social media
 Power BI:- Builds your dashboard and Visualizations.
 
 Excel— to clean, transform and integrate data
-![Social media dashboard](https://cwpwp2.betterthanpaper.com/wp-content/uploads/2019/05/social-media-marketing.png)
+![Call Centre](![image](https://github.com/user-attachments/assets/c999d4f6-2952-4f2b-9339-0550dc467154)
